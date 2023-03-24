@@ -14,11 +14,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [HelloMicroverse] <a name="about-project"></a>
+# 📖 HelloMicroverse <a name="about-project"></a>
 
 
 
-**[your_project__name]** a is the setup of html and css linters for student portfolio website
+**HelloMicroverse** a is the setup of html and css linters for student portfolio website
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -37,7 +37,7 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **[Dispaly "Hello Microverse" on the main page]**
+- **Dispaly "Hello Microverse" on the main page**
 
 
 <!-- AUTHORS -->
